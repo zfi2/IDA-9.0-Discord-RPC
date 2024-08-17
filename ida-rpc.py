@@ -104,7 +104,6 @@ class DiscordRPCPlugin(ida_idaapi.plugin_t):
                     large_text="IDA Pro 9.0",
                     start=self.start_time
                 )
-                print(f"Updated presence: {file_name} - {func_name}")  # Debug print
                 self.last_update_time = time.time()
         except Exception as e:
             print(f"Error updating presence: {str(e)}")
