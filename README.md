@@ -1,4 +1,4 @@
-# IDA-9.0-RPC
+# IDA 9.0 Discord RPC
 Discord Rich Presence plugin for IDA 9.0
 
 # Instructions
