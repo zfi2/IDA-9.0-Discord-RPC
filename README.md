@@ -7,4 +7,4 @@ Discord Rich Presence plugin for IDA 9.0
 3. That's it!
 
 The plugin starts automatically along with IDA, the RPC looks like this:
-![rpc_screenshot_1](https://i.imgur.com/m5X5wH0.png)
+![rpc_screenshot_1](https://i.imgur.com/KkIDZVs.png)
